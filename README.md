@@ -34,6 +34,14 @@
 ![react](https://img.shields.io/badge/-react-black?style=plastic&logo=react)
 ![prisma](https://img.shields.io/badge/-prisma-black?style=plastic&logo=prisma)
 
+# 경력 
+## iOS
+### 반함 - 반려동물과 함께하다
+위드공감 
+2020.05 ~ 2022.06 
+![반함사진](https://user-images.githubusercontent.com/14371570/174119716-acd35c98-3bcd-4747-9e3e-aca5216f79c1.png)
+
+
 <!--
 **LimHun/LimHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
