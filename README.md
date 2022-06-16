@@ -35,12 +35,22 @@
 ![prisma](https://img.shields.io/badge/-prisma-black?style=plastic&logo=prisma)
 
 # 경력 
-## iOS
-### 반함 - 반려동물과 함께하다
-위드공감 
-2020.05 ~ 2022.06 
+## 위드공감 2019.05 ~ 2022.06 
+### [iOS] 반함 - 반려동물과 함께하다 
 ![반함사진](https://user-images.githubusercontent.com/14371570/174119716-acd35c98-3bcd-4747-9e3e-aca5216f79c1.png)
 
+## 뉴에프오 2017.07 ~ 2018.06 
+### [cocos2d-x] 모바일게임 
+
+## Deeploop 2016.11 ~ 2017.04
+### [Android] 캐시밴드 
+
+## 핀코모바일 2013.05 ~ 2016.04
+### [Android] 이웃집캠퍼 
+
+### [cocos2d-x] 2048
+
+### [cocos2d-x] 캐러나비 프랜즈
 
 <!--
 **LimHun/LimHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
