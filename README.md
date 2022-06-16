@@ -44,13 +44,17 @@
 
 ## Deeploop 2016.11 ~ 2017.04
 ### [Android] 캐시밴드 
+<img width="1010" alt="캐시밴드 사진" src="https://user-images.githubusercontent.com/14371570/174129117-d8c8055d-3d1a-46df-89a2-673a9f67ecb7.png">
 
 ## 핀코모바일 2013.05 ~ 2016.04
+### [cocos2d-x] 캐러나비 프랜즈
+![캐러나비프랜즈사진](https://user-images.githubusercontent.com/14371570/174129011-feb16a8c-34c0-4cd5-9a3f-759d10ad2e5a.png)
+
 ### [Android] 이웃집캠퍼 
+![이웃집캠퍼 사진](https://user-images.githubusercontent.com/14371570/174129716-37a9ee53-0760-484a-8b29-4a37f50b9598.png)
 
 ### [cocos2d-x] 2048
-
-### [cocos2d-x] 캐러나비 프랜즈
+![2048 사진](https://user-images.githubusercontent.com/14371570/174129688-8b9183a3-85cd-4d48-90e6-fbf484d3559b.png)
 
 <!--
 **LimHun/LimHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
