@@ -1,5 +1,4 @@
-# iOS 개발자 임훈 입니다. 👋
-# 만나게 되어 반갑습니다. 
+# iOS 개발자 임훈 입니다. 이곳에서 만나게 되어 반갑습니다. 🤗
 - Mail : dlagnskkld3@naver.com
 - blog : https://huniroom.tistory.com/
 - github : https://github.com/LimHun
