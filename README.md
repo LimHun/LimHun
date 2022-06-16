@@ -56,6 +56,13 @@
 ### [cocos2d-x] 2048
 ![2048 사진](https://user-images.githubusercontent.com/14371570/174129688-8b9183a3-85cd-4d48-90e6-fbf484d3559b.png)
 
+# 개인프로젝트
+### [unity] FE약칭
+https://www.youtube.com/watch?v=xGwVsrToOhw
+<img width="498" alt="FE" src="https://user-images.githubusercontent.com/14371570/174130958-d655a823-a5b3-4c2d-8278-b6b43b934889.png">
+
+### Font Viewer 
+![FontViewer 사진](https://user-images.githubusercontent.com/14371570/174132654-ca8c2676-4678-48c9-bdcf-fd3d4462e12e.png)
 <!--
 **LimHun/LimHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
